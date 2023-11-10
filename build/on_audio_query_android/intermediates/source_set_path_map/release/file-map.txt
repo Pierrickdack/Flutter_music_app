@@ -1,0 +1,13 @@
+com.lucasjosino.on_audio_query.on_audio_query_android-jetified-window-java-1.0.0-beta04-0 C:\Users\Pierrick\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.lucasjosino.on_audio_query.on_audio_query_android-lifecycle-viewmodel-2.3.1-1 C:\Users\Pierrick\.gradle\caches\transforms-3\114d02d556db7f0c7636ae1c78b77699\transformed\lifecycle-viewmodel-2.3.1\res
+com.lucasjosino.on_audio_query.on_audio_query_android-core-1.6.0-2 C:\Users\Pierrick\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.lucasjosino.on_audio_query.on_audio_query_android-jetified-annotation-experimental-1.1.0-3 C:\Users\Pierrick\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.lucasjosino.on_audio_query.on_audio_query_android-jetified-window-1.0.0-beta04-4 C:\Users\Pierrick\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.lucasjosino.on_audio_query.on_audio_query_android-main-5 C:\Users\Pierrick\AppData\Local\Pub\Cache\hosted\pub.dev\on_audio_query_android-1.1.0\android\src\main\res
+com.lucasjosino.on_audio_query.on_audio_query_android-release-6 C:\Users\Pierrick\AppData\Local\Pub\Cache\hosted\pub.dev\on_audio_query_android-1.1.0\android\src\release\res
+com.lucasjosino.on_audio_query.on_audio_query_android-pngs-7 F:\flutter_projects\flutter_music_app\build\on_audio_query_android\generated\res\pngs\release
+com.lucasjosino.on_audio_query.on_audio_query_android-resValues-8 F:\flutter_projects\flutter_music_app\build\on_audio_query_android\generated\res\resValues\release
+com.lucasjosino.on_audio_query.on_audio_query_android-rs-9 F:\flutter_projects\flutter_music_app\build\on_audio_query_android\generated\res\rs\release
+com.lucasjosino.on_audio_query.on_audio_query_android-mergeReleaseResources-10 F:\flutter_projects\flutter_music_app\build\on_audio_query_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.lucasjosino.on_audio_query.on_audio_query_android-mergeReleaseResources-11 F:\flutter_projects\flutter_music_app\build\on_audio_query_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.lucasjosino.on_audio_query.on_audio_query_android-merged_res-12 F:\flutter_projects\flutter_music_app\build\on_audio_query_android\intermediates\merged_res\release
